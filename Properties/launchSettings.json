@@ -10,7 +10,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": false,
       "launchUrl": "",
-      "applicationUrl": "http://localhost:3003",
+      "applicationUrl": "https://lithiumservers.fly.dev",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
@@ -20,7 +20,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": false,
       "launchUrl": "",
-      "applicationUrl": "http://localhost:3003",
+      "applicationUrl": "https://lithiumservers.fly.dev",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
